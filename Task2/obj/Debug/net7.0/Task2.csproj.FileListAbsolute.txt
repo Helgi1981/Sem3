@@ -1,0 +1,14 @@
+D:\Работа\GeekBrains\Git\Enter_Languages\Sem3\Task2\bin\Debug\net7.0\Task2.exe
+D:\Работа\GeekBrains\Git\Enter_Languages\Sem3\Task2\bin\Debug\net7.0\Task2.deps.json
+D:\Работа\GeekBrains\Git\Enter_Languages\Sem3\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+D:\Работа\GeekBrains\Git\Enter_Languages\Sem3\Task2\bin\Debug\net7.0\Task2.dll
+D:\Работа\GeekBrains\Git\Enter_Languages\Sem3\Task2\bin\Debug\net7.0\Task2.pdb
+D:\Работа\GeekBrains\Git\Enter_Languages\Sem3\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Работа\GeekBrains\Git\Enter_Languages\Sem3\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+D:\Работа\GeekBrains\Git\Enter_Languages\Sem3\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+D:\Работа\GeekBrains\Git\Enter_Languages\Sem3\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+D:\Работа\GeekBrains\Git\Enter_Languages\Sem3\Task2\obj\Debug\net7.0\Task2.dll
+D:\Работа\GeekBrains\Git\Enter_Languages\Sem3\Task2\obj\Debug\net7.0\refint\Task2.dll
+D:\Работа\GeekBrains\Git\Enter_Languages\Sem3\Task2\obj\Debug\net7.0\Task2.pdb
+D:\Работа\GeekBrains\Git\Enter_Languages\Sem3\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+D:\Работа\GeekBrains\Git\Enter_Languages\Sem3\Task2\obj\Debug\net7.0\ref\Task2.dll
