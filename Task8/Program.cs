@@ -37,3 +37,5 @@ for (int i = 0; i < array.Length; i++)
     Console.Write($"{array[i]} ");
 }
 Console.Write("]");
+
+// Задача копирует Task4, с небольшими поправками!
