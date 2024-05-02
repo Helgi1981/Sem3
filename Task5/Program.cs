@@ -7,7 +7,7 @@ for (int i = 0; i < array.Length; i++)
 {
     if (array[i] >= 10 && array[i] <= 90)
     {
-        int num = array[i];
-        Console.Write(num + ", ");
+        int result = array[i];
+        Console.Write(result + ", ");
     }
 }
